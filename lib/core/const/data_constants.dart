@@ -1,3 +1,7 @@
+import 'package:fitness/core/const/path_constants.dart';
+import 'package:fitness/core/const/text_constants.dart';
+import 'package:fitness/screens/onboarding/widget/onboarding_tile.dart';
+
 class DataConstants {
   // Onboarding
   static final onboardingTiles = [
