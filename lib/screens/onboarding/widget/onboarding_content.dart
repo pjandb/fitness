@@ -1,7 +1,7 @@
 import 'package:dots_indicator/dots_indicator.dart';
-import 'package:fitness_flutter/core/const/color_constants.dart';
-import 'package:fitness_flutter/core/const/data_constants.dart';
-import 'package:fitness_flutter/screens/onboarding/bloc/onboarding_bloc.dart';
+import 'package:fitness/core/const/color_constants.dart';
+import 'package:fitness/core/const/data_constants.dart';
+import 'package:fitness/screens/onboarding/bloc/onboarding_bloc.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:percent_indicator/circular_percent_indicator.dart';
